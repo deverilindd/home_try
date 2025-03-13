@@ -1,0 +1,2 @@
+pip install pep8-naming
+pip install flake8-isort
